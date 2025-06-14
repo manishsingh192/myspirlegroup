@@ -63,6 +63,32 @@ const sections = [
         icon: <BusinessIcon />,
         color: "#d32f2f",
       },
+      {
+                    path: "/industries/information technology",
+                    label: "Information Technology",
+                    icon: <BusinessIcon />,
+                    color: "#d32f2f",
+                  },
+
+      {
+        path: "/industries/telecommunication",
+        label: "Telecommunication",
+        icon: <BusinessIcon />,
+        color: "#d32f2f",
+      },
+      
+      {
+        path: "/industries/infrastructure",
+        label: "Infrastructure",
+        icon: <BusinessIcon />,
+        color: "#d32f2f",
+      },
+      {
+        path: "/industries/power & energy",
+        label: "Power & energy",
+        icon: <BusinessIcon />,
+        color: "#d32f2f",
+      },
     ],
   },
   {
